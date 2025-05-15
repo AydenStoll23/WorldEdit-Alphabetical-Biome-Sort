@@ -16,3 +16,5 @@ Compatible with modded biomes
 Safe to add or remove mid-save
 
 Client-side only (does not affect save data or gameplay mechanics)
+
+[Steam Version](https://steamcommunity.com/sharedfiles/filedetails/?id=3481784282)
