@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ModMetaData>
+    <name>WorldEdit 2.0 - Biome Sorter</name>
+    <author>AlphaHawk59</author>
+    <supportedVersions>
+        <li>1.4</li>
+        <li>1.5</li>
+    </supportedVersions>
+    <packageId>AlphaHawk59.WorldEdit2BiomeSorter</packageId>
+    <description>A simple patch for WorldEdit 2.0 that sorts the biome list alphabetically.</description>
+    <loadAfter>
+        <li>nephlite.worldedit</li>
+    </loadAfter>
+</ModMetaData>
